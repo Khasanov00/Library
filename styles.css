@@ -1,0 +1,11 @@
+#container{
+    display: grid;
+    gap: 50px;
+    grid-template-columns: repeat(fill, 1fr);
+    grid-template-rows: repeat(fill, 1fr);
+}
+.booksCont{
+      height: fit-content;
+      padding: 20px;
+      background-color: dimgray;
+}
