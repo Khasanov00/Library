@@ -2,8 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=
-    , initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Library</title>
     <link rel="stylesheet" href="styles.css">
 </head>
@@ -12,6 +11,15 @@
         <div style="padding:30px ; margin: 0%; background-color: darkslategrey; text-align: center; height: fit-content; font-size: xx-large; font-weight: bold; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">
             Welcome to Our Library <br> <br> Here We Have:</div>
     <div id="container"></div>
+    <div> Add a new book <br>
+       <label for="title">Title</label> <input id="title" type="text" required>
+    <label for="author">Author</label><input id="author" type="text" required>
+    <label for="pages">Pages</label><input id="pages" type="number" required>
+    <label for="status">Read</label> <input id="read" type="checkbox">
+    <button id="submit">Submit</button>
+    </div>
 </div>
+
+<script src="script.js"></script>
 </body>
 </html>

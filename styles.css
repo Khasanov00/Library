@@ -1,11 +1,64 @@
-#container{
-    display: grid;
-    gap: 50px;
-    grid-template-columns: repeat(fill, 1fr);
-    grid-template-rows: repeat(fill, 1fr);
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+    box-sizing: border-box;
 }
-.booksCont{
-      height: fit-content;
-      padding: 20px;
-      background-color: dimgray;
+
+body {
+    background-color: whitesmoke;
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    display: grid;
+    gap: 20px;
+    padding: 20px;
+
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+}
+
+.booksCont {
+    background-color: dimgray;
+    color: white;
+
+    padding: 20px;
+
+    border: 2px solid darkslategrey;
+    border-radius: 10px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+    font-size: large;
+    font-weight: bold;
+}
+
+label {
+    font-size: large;
+    font-weight: bold;
+}
+
+input {
+    padding: 8px;
+    margin: 5px;
+    border: 1px solid darkgray;
+    border-radius: 5px;
+}
+
+#submit {
+    padding: 10px 20px;
+    background-color: darkslategrey;
+    color: white;
+
+    border: none;
+    border-radius: 5px;
+
+    font-size: medium;
+    font-weight: bold;
+}
+
+#submit:hover {
+    background-color: rgb(36, 82, 82);
 }
