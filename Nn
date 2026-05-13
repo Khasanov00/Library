@@ -1,0 +1,57 @@
+You are a top-tier frontend developer and conversion-focused product designer who has built launch pages for YC-backed startups and fast-growing SaaS companies in 2026.
+Build a complete, modern, high-converting single-page SaaS landing page for FlowState AI — an intelligent AI productivity platform that helps knowledge workers and teams achieve deeper focus, eliminate distractions, and dramatically increase output.
+Tech Stack:
+React 19 + TypeScript + Tailwind CSS + Framer Motion (advanced) + Lenis for buttery smooth scrolling. Fully production-ready, accessible, and highly optimized.
+Design Style (Modern Tech Premium):
+Clean, vibrant, and trustworthy tech aesthetic.
+Primary color: Bold electric blue (#2563EB) + indigo accents, with dark navy and clean white/gray.
+Modern gradients, subtle glassmorphism, and refined micro-animations.
+Feels premium, energetic, and trustworthy — similar to high-end tools like Arc, Linear, or Raycast.
+Exact Structure & Requirements:
+Hero Section (High Impact)
+Headline: “Deep Focus. Zero Distractions. Real Results.”
+Subheadline: “FlowState AI uses intelligent systems to protect your attention and multiply your productivity.”
+Strong CTAs: “Start Free 14-Day Trial” and “Watch 90-second Demo”
+Eye-catching hero visual with subtle animated product mockup or floating interface elements.
+Social proof bar: “Join 12,000+ professionals at Notion, Figma, and Stripe”
+Problem Section
+Clearly show the pain of context-switching and distraction.
+Key Features (6 features in elegant grid)
+AI Focus Guardian
+Smart Task Prioritization
+Deep Work Mode
+Team Attention Analytics
+Automatic Meeting Insights
+Distraction Shield
+Each with beautiful icons, short descriptions, and hover animations.
+How It Works (3–4 step visual flow)
+Social Proof / Results
+Metrics: “Average 3.2x more deep work hours”, “87% of users report better focus”
+Logos + testimonials from real-looking users (founders, writers, developers)
+Pricing Plans
+Three tiers (Free / Pro / Team) with monthly/annual toggle
+Clear feature comparison table
+Testimonials (Carousel or grid with photos)
+Final CTA Section
+Strong closing with urgency: “Start shipping more. Start today.”
+Email capture form + “Get Started Free” button
+Footer
+Animation & Interaction Standards:
+Smooth scroll animations and staggered reveals
+Premium hover effects with scale, glows, and color shifts
+Interactive demo elements where possible
+Sticky navbar with scroll progress
+Fast, snappy feel throughout
+Dark/light mode toggle
+Quality Requirements:
+Must look like a $8,000–$15,000 custom SaaS landing page
+Extremely high conversion focus
+Perfect mobile & tablet experience
+Blazing fast performance
+Clean, modern, well-commented, scalable code
+After generating the full website, provide:
+Complete folder + component structure
+Local run instructions (npm install + npm run dev)
+Vercel deployment steps
+Suggestions for further improvements
+Start by creating a detailed implementation plan with component architecture first, then build the entire site step by step at the highest possible quality.
