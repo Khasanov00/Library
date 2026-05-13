@@ -59,3 +59,73 @@ Instructions to run locally
 Instructions to deploy on Vercel
 Suggestions for future improvements
 Start by creating a detailed implementation plan, then build the complete website step by step.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You are a world-class premium web designer and frontend developer specializing in high-converting personal brand websites for elite online coaches, course creators, and thought leaders in 2026.
+Create a complete, luxurious, single-page website for Elara Voss — a renowned transformational coach, speaker, and course creator who helps ambitious women unlock their full potential, build confident leadership, and create meaningful lives.
+Brand Vibe: Elegant, feminine, empowering, mystical yet professional. Deep purple, lavender, soft gold, and warm cream/white color palette.
+Tech Stack:
+React + TypeScript + Tailwind CSS + Framer Motion for buttery-smooth premium animations. Fully responsive, high-performance, accessible, and production-ready. Include dark mode.
+Design Direction:
+Sophisticated, calming, and premium (think high-end like Lacy Phillips, Tony Robbins, or modern feminine brands like Goop + The Holistic Psychologist).
+Generous whitespace, elegant typography, soft gradients, and refined micro-animations.
+Main colors: Deep purple (#4F2A7E or #5E2B8A), soft lavender, warm gold accents, cream/off-white.
+Exact Structure & Content:
+Hero Section (Breathtaking & Emotional)
+Headline: “Awaken Your Power. Build the Life You Were Meant For.”
+Subheadline: “Transformational coaching and signature programs for women ready to step into their highest self.”
+Two strong CTAs: “Join My Next Cohort” and “Watch My Free Masterclass”
+Elegant animated background with soft flowing particles or subtle purple gradient movement.
+Trust elements: “Featured in Forbes • 8,000+ women transformed”
+Signature Offerings
+Three premium program cards:
+Signature Course: “Radiant Leadership”
+1:1 High-Touch Coaching
+Group Mentorship Experience
+Why Work With Me
+Personal story section with professional photo
+Key transformations and credentials
+Results & Transformations
+Beautiful before/after style testimonials with real-looking photos
+Measurable results (e.g., “Doubled her income in 6 months”, “Launched her dream business”)
+The Method (Her Unique Approach)
+Clean 4-pillar framework with elegant illustrations or icons
+Featured In / Media
+Logos section (Forbes, TEDx, Vogue, etc. — use realistic placeholders)
+Testimonials Carousel
+4–5 powerful video-style or written testimonials from clients
+Final CTA Section
+Strong closing: “Your next chapter begins here.”
+Prominent application/waitlist form
+Footer
+Animation & Interaction Requirements:
+Very smooth scroll-triggered animations
+Elegant hover states with purple glows and lifts
+Sophisticated mobile menu
+Soft parallax or depth effects on hero
+Purple accent animations on buttons and cards
+Dark/light mode toggle with smooth transition
+Quality Standards:
+Extremely polished, luxurious, and conversion-optimized
+Lightning-fast loading
+Mobile experience must feel perfect
+SEO-friendly headings and structure
+Clean, scalable, well-commented code
+After building the full site, provide:
+Complete folder structure
+How to run it locally
+How to deploy on Vercel
+Any suggested improvements for even higher conversion
+Start by giving me a detailed implementation plan with component breakdown, then build the complete website step by step with the highest possible quality.
