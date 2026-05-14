@@ -129,3 +129,44 @@ How to run it locally
 How to deploy on Vercel
 Any suggested improvements for even higher conversion
 Start by giving me a detailed implementation plan with component breakdown, then build the complete website step by step with the highest possible quality.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You are an expert senior frontend developer and UI/UX designer specializing in high-converting SaaS marketing websites in 2026.
+Build a complete, modern, single-page SaaS landing page for an AI-powered productivity tool called "FlowState AI" (helps remote workers achieve deep focus and manage tasks intelligently).
+Tech Stack: React + TypeScript + Tailwind CSS + Framer Motion for smooth animations. Make it fully responsive, fast-loading, and production-ready.
+Structure and Requirements:
+Hero Section
+Powerful headline: “Deep Work, Without the Distractions”
+Subheadline explaining the value
+Prominent CTA buttons: “Start Free Trial” and “Watch 1-min Demo”
+Subtle animated background or 3D-ish floating elements
+Trust signals (logos or “Trusted by remote teams at...”)
+Problem / Pain Points Section
+Features Section (3–4 feature cards with icons + hover effects)
+How It Works (simple 3-step process)
+Testimonials (3–4 realistic testimonials with photos)
+Pricing (3 tiers with toggle between Monthly/Yearly)
+Final CTA / Footer
+Design Style:
+Modern, clean, premium dark/light mode toggle
+Excellent typography and generous whitespace
+Smooth scroll animations, hover interactions, and micro-animations
+Fast performance, mobile-first, SEO-friendly
+Use current 2026 design trends (subtle gradients, glassmorphism where appropriate, strong visual hierarchy)
+Make the entire site beautiful, professional, and conversion-focused. After generating, provide a clear file structure and instructions on how to run it locally and deploy to Vercel/Netlify.
+Start by creating the full implementation plan first, then build it step by step.
